@@ -16,8 +16,8 @@ Young professionals and first-time investors want to start investing but often d
 
 ## 🎯 Target User Persona
 
-**Name:** Rahul  
-**Age:** 23  
+**Name:** Jainam
+**Age:** 21 
 **Profile:** First job, early career professional  
 **Goal:** Wants to start investing passively  
 **Pain Point:** Feels investing is complex and risky for small amounts
