@@ -2,7 +2,7 @@
 
 ## 🚀 Overview
 
-This mini project demonstrates my **Product Owner** skills by designing a **Smart Spare Change Investment** feature for a digital banking app, inspired by products like **Revolut**.
+This mini project demonstrates a **Smart Spare Change Investment** feature for a digital banking app, inspired by products like **Revolut**.
 
 The goal is to help users passively grow wealth by automatically rounding up everyday card transactions to the nearest whole currency unit and investing the spare change into simple, user-chosen assets like ETFs, crypto, or gold.
 
